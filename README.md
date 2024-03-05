@@ -1,5 +1,3 @@
-# Git Repository README
-
 ## Introduction
 This repository contains SQL queries for performing data cleansing and exploration on the weekly sales dataset. The dataset includes information about sales transactions, such as date, region, platform, segment, customer type, transactions, and sales amount.
 
